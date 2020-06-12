@@ -1,6 +1,6 @@
 # Executar aplicativos Windows dentro do Docker
 
-Você está cansado de instalar milhares de aplicativos no seu Linux para conseguir rodar aquele seu aplicativo do Windows?
+Você está cansado de instalar milhares de aplicativos no seu Linux para conseguir rodar aquele seu aplicativo Windows?
 
 Seus problemas acabaram, agora você consegue rodar um aplicativo Windows no Linux usando Docker e o melhor não precisa instalar nada. Tudo fica no Docker.
 
@@ -84,7 +84,7 @@ docker run -it --rm --name winbox \
 ## Caso tenha problema com as fontes do Windows, copie a pasta fontes para este caminho.
 
 ```
-./wine_docker/wine-root/drive_c/windows/Fonts
+./wine_docker/drive_c/windows/Fonts
 ```
 
 ## Rodar um terminal Docker para versão do Wine que compilamos.
