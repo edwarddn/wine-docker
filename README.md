@@ -6,6 +6,11 @@ Seus problemas acabaram, agora você consegue rodar um aplicativo Windows no Lin
 
 Neste exemplo vamos rodar Winbox no Linux mais você pode utilizar para executar outros aplicativos...
 
+<p align="center">
+  <img src="doc/docker.gif" />
+</p>
+
+# Criando a imagem Docker
 
 ###  Você pode iniciar a construção da imagem wine1.5 com:
 
